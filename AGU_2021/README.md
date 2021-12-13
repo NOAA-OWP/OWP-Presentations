@@ -46,6 +46,8 @@
 <details>
 <summary>Poster Presentations</summary>
 
+  [Reducing a Stream Network's Horton-Strahler Stream Order Improves the Skill of Flood Inundation Maps from Height Above Nearest Drainage Method](/Poster_Presentations/aristizabal_AGU_2021.pdf)
+  
   [Operational Hydrologic Modeling: Current Status of NOAA's National Water Model and Plans for the Future](/Poster_Presentations/Cosgrove_AGU_2021.pdf)
   
   [Efficient diffusive routing computation for the National Water Model v3.0 using a topological relationship map](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/Poster_Presentations/Dong%20Ha%20Kim_AGU%202021.pdf)

@@ -21,9 +21,6 @@
 <details>
 <summary>Oral Presentations</summary>
 
-<details>
-<summary>Improving National Water Model Streamflow Performance through Parameter Calibration</summary>
-
-[Presentation PDF](/Oral_Presentations/Feng_AGU_2021.pdf)
+[Improving National Water Model Streamflow Performance through Parameter Calibration](/Oral_Presentations/Feng_AGU_2021.pdf)
 
 </details>

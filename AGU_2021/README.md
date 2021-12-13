@@ -35,7 +35,7 @@
 
   [Operational Hydrologic Modeling: Current Status of NOAA's National Water Model and Plans for the Future](/Poster_Presentations/Cosgrove_AGU_2021.pdf)
   
-  [Efficient diffusive routing computation for the National Water Model v3.0 using a topological relationship map](/Poster_Presentations/Dong Ha Kim_AGU 2021.pdf)
+  [Efficient diffusive routing computation for the National Water Model v3.0 using a topological relationship map](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/Poster_Presentations/Dong%20Ha%20Kim_AGU%202021.pdf)
   
   [Enhancing NWM Parameter Regionalization to Improve Physical Similarity Representation While Accounting for Uncertainties](/Poster_Presentations/Liu_AGU_2021.pdf)
   

@@ -3,8 +3,16 @@
 <details>
 <summary>General OWP at AGU Information</summary>
 
+  [The National Water Center](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/General_Information/OWP%20National%20Water%20Center%202021.pdf)
+  
+  [OWP @AGU 2021 Schedule and Activities](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/General_Information/OWP%20is%20at%20AGU%202021.pdf)
+  
+  [The Next Generation National Water Model Framework](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/General_Information/OWP%20NWM%20NextGen%20Framework%202021.pdf)
+  
+  [OWP On Github](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/General_Information/OWP%20Presentations%20GitHub%20QRcode-Final.pdf)
+  
 <details>
-<summary>Interning Virtually</summary>
+<summary>Interning Virtually </summary>
 
 [![Interning Virtually video about intern experience at OWP](https://img.youtube.com/vi/zgMChRQrYDQ/0.jpg)](https://www.youtube.com/watch?v=zgMChRQrYDQ)
 

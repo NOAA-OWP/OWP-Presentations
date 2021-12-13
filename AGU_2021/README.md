@@ -45,7 +45,7 @@
   
   [Development of a Continental Scale Coastal Flood Model Using a Sub-Setting Approach](/Poster_Presentations/Kefelegn_et_al_AGU_2021.pdf)
   
-  [A New Generation of Decision Support Visualizations for Water Prediction Services](/Poster_Presentations/Moore Powell et al_AGU_2021.pdf)
+  [A New Generation of Decision Support Visualizations for Water Prediction Services](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/Poster_Presentations/Moore%20Powell%20et%20al_AGU_2021.pdf)
   
 
 </details>

@@ -21,8 +21,12 @@
 <details>
 <summary>Oral Presentations</summary>
 
-[Improving National Water Model Streamflow Performance through Parameter Calibration](/Oral_Presentations/Feng_AGU_2021.pdf)
+  [Improving National Water Model Streamflow Performance through Parameter Calibration](/Oral_Presentations/Feng_AGU_2021.pdf)
 
-[Joint Computational Domain Partitioning of Rainfall-Runoff Models with (Kinematic) Streamflow Routing Models](/Oral_Presentations/Frazier_AGU_2021.pdf)
+  [Joint Computational Domain Partitioning of Rainfall-Runoff Models with (Kinematic) Streamflow Routing Models](/Oral_Presentations/Frazier_AGU_2021.pdf)
+
+  [The First Implementation of the NWM's Total Water Forecasting Capability](/Oral_Presentations/Shi_AGU_2021.pdf)
+
+  [Implementation of NOAA’s Operational National Water Model for Flood Impact-Based Forecasting](/Oral/Presentations/Lee_et_al_AGU_2021.pdf)
 
 </details>

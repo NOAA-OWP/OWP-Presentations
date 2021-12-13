@@ -1,7 +1,7 @@
 # 2021 NOAA-OWP AGU Information:
 
 <details>
-<summary>General OWP Information</summary>
+<summary>General OWP at AGU Information</summary>
 
 <details>
 <summary>Interning Virtually</summary>

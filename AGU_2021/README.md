@@ -23,4 +23,6 @@
 
 [Improving National Water Model Streamflow Performance through Parameter Calibration](/Oral_Presentations/Feng_AGU_2021.pdf)
 
+[Joint Computational Domain Partitioning of Rainfall-Runoff Models with (Kinematic) Streamflow Routing Models](/Oral_Presentations/Frazier_AGU_2021.pdf)
+
 </details>

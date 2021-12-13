@@ -30,3 +30,22 @@
   [Implementation of NOAA’s Operational National Water Model for Flood Impact-Based Forecasting](/Oral/Presentations/Lee_et_al_AGU_2021.pdf)
 
 </details>
+<details>
+<summary>Poster Presentations</summary>
+
+  [Operational Hydrologic Modeling: Current Status of NOAA's National Water Model and Plans for the Future](/Poster_Presentations/Cosgrove_AGU_2021.pdf)
+  
+  [Efficient diffusive routing computation for the National Water Model v3.0 using a topological relationship map](/Poster_Presentations/Dong Ha Kim_AGU 2021.pdf)
+  
+  [Enhancing NWM Parameter Regionalization to Improve Physical Similarity Representation While Accounting for Uncertainties](/Poster_Presentations/Liu_AGU_2021.pdf)
+  
+  [Noah-OWP-Modular for Nextgen: Enhancement, Modularization, and Implementation of the Basic Model Interface](/Poster_Presentations/jennings_et_al_AGU_2021.pdf)
+  
+  [Active Water Management Within the National Water Model v3.0: Assimilation of Reservoir Outflow and Glacier Dammed Lake Releases](/Poster_Presentations/Cosgrove_Rezaeianzadeh_AGU_2021.pdf)
+  
+  [Development of a Continental Scale Coastal Flood Model Using a Sub-Setting Approach](/Poster_Presentations/Kefelegn_et_al_AGU_2021.pdf)
+  
+  [A New Generation of Decision Support Visualizations for Water Prediction Services](/Poster_Presentations/Moore Powell et al_AGU_2021.pdf)
+  
+
+</details>

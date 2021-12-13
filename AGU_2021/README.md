@@ -12,7 +12,7 @@
   [OWP On Github](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/General_Information/OWP%20Presentations%20GitHub%20QRcode-Final.pdf)
   
 <details>
-<summary>Interning Virtually </summary>
+<summary>Internships</summary>
 
 [![Interning Virtually video about intern experience at OWP](https://img.youtube.com/vi/zgMChRQrYDQ/0.jpg)](https://www.youtube.com/watch?v=zgMChRQrYDQ)
 

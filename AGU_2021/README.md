@@ -48,19 +48,19 @@
 
   [Python-based Tools for Retrieving and Evaluating National Water Model Streamflow Simulations](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/Poster_Presentations/J.Regina_OWPHydroTools_AGU2021.pdf)
   
-  [Reducing a Stream Network's Horton-Strahler Stream Order Improves the Skill of Flood Inundation Maps from Height Above Nearest Drainage Method](/Poster_Presentations/aristizabal_AGU_2021.pdf)
+  [Reducing a Stream Network's Horton-Strahler Stream Order Improves the Skill of Flood Inundation Maps from Height Above Nearest Drainage Method](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/Poster_Presentations/aristizabal_AGU_2021.pdf)
   
-  [Operational Hydrologic Modeling: Current Status of NOAA's National Water Model and Plans for the Future](/Poster_Presentations/Cosgrove_AGU_2021.pdf)
+  [Operational Hydrologic Modeling: Current Status of NOAA's National Water Model and Plans for the Future](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/Poster_Presentations/Cosgrove_AGU_2021.pdf)
   
   [Efficient diffusive routing computation for the National Water Model v3.0 using a topological relationship map](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/Poster_Presentations/Dong%20Ha%20Kim_AGU%202021.pdf)
   
-  [Enhancing NWM Parameter Regionalization to Improve Physical Similarity Representation While Accounting for Uncertainties](/Poster_Presentations/Liu_AGU_2021.pdf)
+  [Enhancing NWM Parameter Regionalization to Improve Physical Similarity Representation While Accounting for Uncertainties](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/Poster_Presentations/Liu_AGU_2021.pdf)
   
-  [Noah-OWP-Modular for Nextgen: Enhancement, Modularization, and Implementation of the Basic Model Interface](/Poster_Presentations/jennings_et_al_AGU_2021.pdf)
+  [Noah-OWP-Modular for Nextgen: Enhancement, Modularization, and Implementation of the Basic Model Interface](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/Poster_Presentations/jennings_et_al_AGU_2021.pdf)
   
-  [Active Water Management Within the National Water Model v3.0: Assimilation of Reservoir Outflow and Glacier Dammed Lake Releases](/Poster_Presentations/Cosgrove_Rezaeianzadeh_AGU_2021.pdf)
+  [Active Water Management Within the National Water Model v3.0: Assimilation of Reservoir Outflow and Glacier Dammed Lake Releases](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/Poster_Presentations/Cosgrove_Rezaeianzadeh_AGU_2021.pdf)
   
-  [Development of a Continental Scale Coastal Flood Model Using a Sub-Setting Approach](/Poster_Presentations/Kefelegn_et_al_AGU_2021.pdf)
+  [Development of a Continental Scale Coastal Flood Model Using a Sub-Setting Approach](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/Poster_Presentations/Kefelegn_et_al_AGU_2021.pdf)
   
   [A New Generation of Decision Support Visualizations for Water Prediction Services](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/Poster_Presentations/Moore%20Powell%20et%20al_AGU_2021.pdf)
   

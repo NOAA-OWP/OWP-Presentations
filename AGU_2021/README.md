@@ -46,7 +46,7 @@
 <details>
 <summary>Poster Presentations</summary>
 
-  [Python-based Tools for Retrieving and Evaluating National Water Model Streamflow Simulations](/Poster_Presentations/J.Regina_OWPHydroTools_AGU2021.pdf)
+  [Python-based Tools for Retrieving and Evaluating National Water Model Streamflow Simulations](https://github.com/NOAA-OWP/OWP-Presentations/blob/main/AGU_2021/Poster_Presentations/J.Regina_OWPHydroTools_AGU2021.pdf)
   
   [Reducing a Stream Network's Horton-Strahler Stream Order Improves the Skill of Flood Inundation Maps from Height Above Nearest Drainage Method](/Poster_Presentations/aristizabal_AGU_2021.pdf)
   

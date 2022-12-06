@@ -19,6 +19,9 @@ The conference presentations and posters in this repository are that of the Offi
 
 ## Social Media
 [NOAA-OWP GitHub](https://github.com/NOAA-OWP)
+
 [@NWSNWC Twitter](https://twitter.com/nwsnwc)
+
 [NWS National Water Center Facebook](https://www.facebook.com/NWSNationalWaterCenter)
+
 [NOAA NWS National Water Center YouTube](https://www.youtube.com/channel/UCIIC2c3weRXNATL1fs7SECA)

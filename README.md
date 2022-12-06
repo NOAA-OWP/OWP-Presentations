@@ -15,10 +15,10 @@ The conference presentations and posters in this repository are that of the Offi
 
 ## [OWP General Information](https://github.com/NOAA-OWP/OWP-Presentations/tree/main/OWP%20General%20Information)
 
-## [National Water Center StoryMap] (https://storymaps.arcgis.com/stories/bd24999334674fc09f52bd30cff4d9ff)
+## [National Water Center StoryMap](https://storymaps.arcgis.com/stories/bd24999334674fc09f52bd30cff4d9ff)
 
 ## Social Media
-[GitHub](https://github.com/NOAA-OWP)
-[Twitter](https://twitter.com/nwsnwc)
-[Facebook](https://www.facebook.com/NWSNationalWaterCenter)
-[YouTube](https://www.youtube.com/channel/UCIIC2c3weRXNATL1fs7SECA)
+[NOAA-OWP GitHub](https://github.com/NOAA-OWP)
+[@NWSNWC Twitter](https://twitter.com/nwsnwc)
+[NWS National Water Center Facebook](https://www.facebook.com/NWSNationalWaterCenter)
+[NOAA NWS National Water Center YouTube](https://www.youtube.com/channel/UCIIC2c3weRXNATL1fs7SECA)
